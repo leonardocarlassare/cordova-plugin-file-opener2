@@ -105,7 +105,7 @@ public class FileOpener2 extends CordovaPlugin {
 					contentType = _getMimeType(fileName);
 				}
 
-				// Intent intent;
+				Intent intent;
 				// if (contentType.equals("application/vnd.android.package-archive")) {
 				// //
 				// https://stackoverflow.com/questions/9637629/can-we-install-an-apk-from-a-contentprovider/9672282#9672282
